@@ -4,7 +4,8 @@ npm install -g expo-cli
 npx create-expo-app fcm
 # Expo Firebase core and notifications
 expo install expo-firebase-core expo-notifications
-
+npm install @react-navigation/native @react-navigation/bottom-tabs react-native-safe-area-context react-native-screens
+expo install react-native-vector-icons react-native-gesture-handler
 # If you use native Firebase APIs
 npm install firebase
 npm install -g eas-cli
