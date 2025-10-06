@@ -1,0 +1,13 @@
+
+
+npm install -g expo-cli
+npx create-expo-app fcm
+# Expo Firebase core and notifications
+expo install expo-firebase-core expo-notifications
+
+# If you use native Firebase APIs
+npm install firebase
+npm install -g eas-cli
+eas login
+
+eas build -p android --profile preview
