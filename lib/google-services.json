@@ -1,1 +1,30 @@
 
+{
+  "project_info": {
+    "project_number": "498284086043",
+    "project_id": "elijah-2366a",
+    "storage_bucket": "elijah-2366a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498284086043:android:d8f65e31650e0ea2db89be",
+        "android_client_info": {
+          "package_name": "Com.xlijah.atom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt52AQBE6-VjTuKBgexwG3AAr4arvTJhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
