@@ -1,0 +1,7 @@
+your-project/
+├── app.json
+├── eas.json
+├── package.json
+├── google-services.json
+├── App.js
+└── firebaseConfig.js
